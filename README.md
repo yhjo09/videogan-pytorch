@@ -17,6 +17,7 @@ Please refer to the paper [paper](http://carlvondrick.com/tinyvideo/paper.pdf).<
 
 ## Usage  
 Place *golf* dataset inside a folder `golf`.<br />
+(You can download the dataset from [http://www.cs.columbia.edu/~vondrick/tinyvideo/](http://www.cs.columbia.edu/~vondrick/tinyvideo/)).<br />
 Run `train_golf.py` with the required values in `argparser`.
 
 ## Results
