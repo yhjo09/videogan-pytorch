@@ -5,7 +5,7 @@ This is a Pytorch implementation of "Generating Videos with Scene Dynamics" (htt
 Codes are largely from a TensorFlow implementation (https://github.com/GV1028/videogan).
 
 ## Requirements
-This code was tested under Pytorch 1.0.
+This code was tested under Pytorch 0.4.0.
 Required packages: 
 * pip install numpy
 * pip install pillow
@@ -26,6 +26,7 @@ Run `test_golf.py`.
 
 ## Results
 Below are some of the results on the model trained on *golf* dataset about 3 epochs.<br />
+More training will likely yield better results.<br />
 <table><tr><td>
 <strong>Generated videos</strong><br>
 <img src='images/gen1.gif'>
